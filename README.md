@@ -15,3 +15,5 @@ About Me
 😄 Pronouns: he/him
 
 ⚡ Fun fact: I enjoy exploring new technologies and pushing myself to learn and grow in the tech world.
+
+Social link(LinkedIn): https://www.linkedin.com/in/dhaneera-dulvanya-malawara-arachchi-1b8315279/
