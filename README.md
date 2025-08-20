@@ -3,12 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhaneeradulvanya&label=Profile%20views&color=0e75b6&style=flat" alt="dhaneeradulvanya" /> </p>
 
+- 🎓 Undergraduate Student at **Sabaragamuwa University of Sri Lanka**
+
 - 🌱 I’m currently learning **Data Science (degree program), Python, Java, JavaScript, Html, CSS, php, mySql, React.js and Node.js**
 
 - 💬 Ask me about **Python, Java, JavaScript, Html and CSS**
 
 - 📫 How to reach me **dhaneeram.arachchi49@gmail.com**
 
+- ⚡ Fun fact **🎸 I play guitar when my code doesn’t compile.**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/dhaneera-dulvanya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dhaneera-dulvanya" height="30" width="40" /></a>
@@ -20,4 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhaneeradulvanya&show_icons=true&locale=en&layout=compact" alt="dhaneeradulvanya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhaneeradulvanya&show_icons=true&locale=en" alt="dhaneeradulvanya" /></p>
+
 
