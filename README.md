@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋 I'm Dhaneera Dulvanya</h1>
 
 <h3 align="center">
-Data Science Undergraduate • Full-Stack Developer • Problem Solver
+Data Science Undergraduate • Data Analyst • Problem Solver
 </h3>
 
 <p align="center">
