@@ -5,8 +5,6 @@
 </p>
 
 <p align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=dhaneeradulvanya)
 
   <a href="https://github.com/dhaneeradulvanya?tab=followers">
     <img src="https://img.shields.io/github/followers/dhaneeradulvanya?style=for-the-badge&color=blue&label=Followers" alt="GitHub followers"/>
@@ -36,7 +34,7 @@ My interests lie at the intersection of **Data Science, Artificial Intelligence,
 
 ### 🐍 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,php,html,css" alt="Programming languages"/>
+  <img src="https://skillicons.dev/icons?i=python,html,css,sql" alt="Programming languages"/>
 </p>
 
 ### 📊 Data Science & Machine Learning
@@ -62,19 +60,26 @@ My interests lie at the intersection of **Data Science, Artificial Intelligence,
 
 ### 🧰 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,anaconda" alt="Development tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development tools"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 </p>
+
 
 ---
 
 ## 🚀 Featured Projects
+
+### 📙 BookRush - Online Book Store
+A full-stack online bookstore platform designed to make book discovery and purchasing more convenient. BookRush provides a user-friendly interface for browsing books and accessing book-related information.
+
+**Stack:** React.js · Tailwind CSS · Node.js · Express.js · MongoDB Atlas
 
 ### 🏡 Real Estate AI — Price Prediction & Market Analysis
 A machine learning application for predicting property prices and exploring real estate market trends, with model explainability to help interpret predictions.
 
 **Stack:** Python · XGBoost · Scikit-learn · SHAP · FastAPI · React.js
 
-### 🥋 Karate Tournament Graph Analyzer
+### 🥋 KaratGraph - Karate Tournament Graph Analyzer
 A graph-theory-based application that models tournament conflicts and explores graph colouring techniques to support karate tournament scheduling.
 
 **Stack:** Graph Theory · React.js · MongoDB
@@ -83,16 +88,6 @@ A graph-theory-based application that models tournament conflicts and explores g
 A personal portfolio presenting my technical skills, projects, academic background, and achievements, with an integrated contact form.
 
 **Stack:** React.js · JavaScript · CSS · EmailJS · GitHub Pages
-
----
-
-## 🏆 Achievements
-
-- 🥉 **3rd Place — Team Kata, SLUG 2025**, Rajarata University of Sri Lanka.
-- 🥋 Participant — Inter-University Karate Championship 2026.
-- 🎸 Lead guitarist — Kodu Yathra 2025, Faculty of Computing, Sabaragamuwa University of Sri Lanka.
-
----
 
 ## 📈 GitHub Analytics
 
@@ -128,13 +123,13 @@ A personal portfolio presenting my technical skills, projects, academic backgrou
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dhaneera-dulvanya/">
+  <a href="https://www.linkedin.com/in/dhaneeradulvanya">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://dhaneeradulvanya.github.io/portfolio/">
+  <a href="https://github.com/DhaneeraDulvanya">
     <img src="https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="mailto:dhaneeram.arachchi49@gmail.com">
+  <a href="mailto:dhaneeradulvanya0407@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
