@@ -129,9 +129,9 @@ A personal portfolio presenting my technical skills, projects, academic backgrou
   <a href="https://github.com/DhaneeraDulvanya">
     <img src="https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="mailto:dhaneeradulvanya0407@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&to=dhaneeradulvanya0407@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 </p>
 
 ---
