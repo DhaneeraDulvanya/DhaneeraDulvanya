@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Dhaneera Dulvanya
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Science+Undergraduate;Aspiring+Data+Scientist+%7C+Data+Analyst;Machine+Learning+%26+AI+Enthusiast;Turning+Data+Into+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Science+Undergraduate;Aspiring+Data+Scientist+%7C+AI+Develpper;Machine+Learning+%26+AI+Enthusiast;Turning+Data+Into+Insights" alt="Typing SVG" />
 </p>
 
 <p align="center">
